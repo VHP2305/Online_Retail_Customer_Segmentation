@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lexer.io%2Fblog%2Fwhat-is-customer-segmentation-in-retail&psig=AOvVaw1yzr5mQBXB3SIs5umEIR9R&ust=1685644145190000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNC6__SXoP8CFQAAAAAdAAAAABA7" width="1200" height="500"/>
+    src = "cap4.png" width="1200" height="500"/>
 </p>
 
 
@@ -66,6 +66,6 @@ Most of the customers purchase in the afternoon time.
 
 Using a recency, frequency and monetary(RFM) analysis, the customers have been segmented into various clusters.
 
-By applying different clustering algorithm to our dataset, we get the optimal number of cluster is equal to 3.
+By applying different clustering algorithm to our dataset, we get the optimal number of cluster is equal to 2.
 
 The business can focus on these different clusters and provide customer with services of each sector in a different way, which would not only benefit the customers but also the business at large.
